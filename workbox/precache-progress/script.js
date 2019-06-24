@@ -1,5 +1,5 @@
 "use strict";
-import {Workbox} from 'https://storage.googleapis.com/workbox-cdn/releases/4.0.0/workbox-window.prod.mjs';
+import {Workbox} from 'https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-window.prod.mjs';
 let count_installed =0;
 
 if ('serviceWorker' in navigator) {
